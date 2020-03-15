@@ -1,13 +1,13 @@
 ## GitHub hosts更改(亲测可用)
-#建议使用UsbEAm HostsEditor或dism++更改注册表
 
-## GitHub Start
+建议使用UsbEAm HostsEditor或dism++更改注册表
+
+/## GitHub Start(没有/)
 
 192.30.253.112 github.com
 192.30.253.113 github.com
 151.101.184.133 assets-cdn.github.com
 151.101.185.194 github.global.ssl.fastly.net 
-
 
 192.30.253.112 github.com
 192.30.253.113 github.com
@@ -49,4 +49,4 @@
 151.101.185.194 github.global.ssl.fastly.net
 140.82.113.10 codeload.github.com
 
-## GitHub End
+/## GitHub End(没有/)
