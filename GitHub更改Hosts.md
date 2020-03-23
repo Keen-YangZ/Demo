@@ -1,8 +1,8 @@
-### 解决访问GitHub蜗牛速问题
-
-将以下host复制进C:\Windows\System32\drivers\etc\hosts
-再刷新dns缓存(可重启)
-
+## 解决访问GitHub蜗牛速问题
+---
+将以下host复制进C:\Windows\System32\drivers\etc\hosts再刷新dns缓存(可重启)
+---
+```
 ##GitHub Start
 
 192.30.253.112 github.com
@@ -90,3 +90,4 @@
 140.82.113.10 codeload.github.com
 
 ##GitHub End
+```
