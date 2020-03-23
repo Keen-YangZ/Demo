@@ -1,3 +1,2 @@
-刚注册，第一次使用，请见谅
-
+#Just started using it, hope understanding.
 
