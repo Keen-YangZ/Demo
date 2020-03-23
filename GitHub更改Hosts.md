@@ -1,4 +1,4 @@
-## 解决访问GitHub蜗牛速问题
+#### 解决访问GitHub蜗牛速问题
 ---
 将以下host复制进C:\Windows\System32\drivers\etc\hosts再刷新dns缓存(可重启)
 ---
