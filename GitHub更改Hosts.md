@@ -1,6 +1,6 @@
 # 解决访问GitHub蜗牛速问题
 ---
-####将以下host复制进C:\Windows\System32\drivers\etc\hosts（建议使用UsbEAm Hosts Editor）再刷新dns缓存(也可重启)
+#### 将以下host复制进C:\Windows\System32\drivers\etc\hosts（建议使用UsbEAm Hosts Editor）再刷新dns缓存(也可重启)
 [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 ---
 ```
@@ -51,4 +51,4 @@
 151.101.185.194 github.global.ssl.fastly.net
 140.82.113.10 codeload.github.com
 ##GitHub End
-```
+
